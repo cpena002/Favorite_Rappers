@@ -1,0 +1,76 @@
+h1 {
+    text-align: center;
+    font-size: 45px;
+}
+
+p {
+  text-align: justify;
+}
+
+P::first-letter {
+  font-family: sans;
+  font-size: 24px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 36px;
+  font-family: 'lobster', cursive;
+}
+
+img {
+  width: 100%;
+  height: 280px;
+}
+
+/*.row {
+  border-style: dotted;
+  margin: 1px;
+}*/
+
+.col-lg-4 {
+  border-style: dotted;
+}
+
+.bottom1 {
+  margin-bottom: -47px;
+  padding-bottom: 55px;
+}
+
+/*add a class to the columns instead and play with their margins/padding*/
+
+.bottom2 {
+  margin-bottom: 3px;
+}
+
+.bottom3 {
+  margin-bottom: 75px;
+}
+.bottom4 {
+  margin-bottom: 134px;
+}
+
+.bottom5 {
+  margin-bottom: 26px;
+}
+
+.navbar-brand {
+  font-size: 14px;
+  text-align: right;
+  width: 200px;
+  border-right: 1px solid white;
+  margin-right: 0px;
+}
+.youtube {
+  display: flex;
+  justify-content: space-between;
+  float: none;
+  flex-flow: wrap;
+  }
+.active {
+  border: 1px solid white;
+}
+.jumbotron {
+  background-color: black;
+  color: white;
+}
