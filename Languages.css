@@ -23,11 +23,6 @@ img {
   height: 280px;
 }
 
-/*.row {
-  border-style: dotted;
-  margin: 1px;
-}*/
-
 .col-lg-4 {
   border-style: dotted;
 }
@@ -40,11 +35,11 @@ img {
 /*add a class to the columns instead and play with their margins/padding*/
 
 .bottom2 {
-  margin-bottom: 3px;
+  margin-bottom: 10px;
 }
 
 .bottom3 {
-  margin-bottom: 75px;
+  margin-bottom: 87px;
 }
 .bottom4 {
   margin-bottom: 134px;
